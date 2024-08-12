@@ -9,9 +9,6 @@ I am a motivated and adaptable undergraduate pursuing a BSc. Honours in Informat
 - **Design**: Photoshop, After Effects, Premiere Pro, Illustrator
 - **Networking**: 2D Networking
 
-## Certifications
-- **ACPT - Academy Of Computer Programming And Training (Java)**
-
 ## Education
 - **BSc. Honours in Information Systems (Special)** - Rajarata University of Sri Lanka (2024)
 - **ACPT - Academy Of Computer Programming And Training (Java)**
