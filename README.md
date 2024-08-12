@@ -9,16 +9,12 @@ I am a motivated and adaptable undergraduate pursuing a BSc. Honours in Informat
 - **Design**: Photoshop, After Effects, Premiere Pro, Illustrator
 - **Networking**: 2D Networking
 
-## Projects
-- **Nishshanka Agriculture (Pvt) Ltd Company Website**: A project focusing on developing an informative and interactive website for Nishshanka Agriculture.
-- **Educa Tuition Class & Portfolio Website**: Created a platform to manage tuition classes and showcase portfolio work.
-- **My Other Projects**: Visit my GitHub repositories [here](https://github.com/DMPDissanayake).
-
 ## Certifications
 - **ACPT - Academy Of Computer Programming And Training (Java)**
 
 ## Education
 - **BSc. Honours in Information Systems (Special)** - Rajarata University of Sri Lanka (2024)
+- **ACPT - Academy Of Computer Programming And Training (Java)**
 - **G.C.E Ordinary Level & Advanced Level Examinations** - (2015 & 2019)
 
 ## Achievements
