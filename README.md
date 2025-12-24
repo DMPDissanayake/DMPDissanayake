@@ -1,35 +1,18 @@
-# DMP Dissanayake
+### <div align="center">I'm Pushpakumara, Mobile Developer 👨‍💻 working @Aventure 🚀</div>  
 
-## About Me
-I am a motivated and adaptable undergraduate pursuing a BSc. Honours in Information Systems (Special) at Rajarata University of Sri Lanka. With a strong foundation in technology and problem-solving, I am passionate about leveraging my skills to contribute to dynamic IT environments. I am a quick learner and thrive in adapting to new environments and technologies.
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 
-## Technical Skills
-- **Languages**: Java, Python, HTML/CSS, SQL
-- **Tools**: GitHub, Jira, Selenium, Java-Fx, Matlab, Cisco Packet Tracer
-- **Design**: Photoshop, After Effects, Premiere Pro, Illustrator
-- **Networking**: 2D Networking
 
-## Education
-- **BSc. Honours in Information Systems (Special)** - Rajarata University of Sri Lanka (2024)
-- **ACPT - Academy Of Computer Programming And Training (Java)**
-- **G.C.E Ordinary Level & Advanced Level Examinations** - (2015 & 2019)
 
-## Achievements
-- **University Colors** - Elle Event, Rajarata University of Sri Lanka
-- **Sri Lanka University Games** - Participant
-- **Uva Province Elle Team Member** - National Sport Game
-- **All Island School Drama & Dancing Competitions** - Multiple achievements from 2009 to 2016
 
-## Contact
-- **Email**: [dissanayakedmp94@gmail.com](mailto:dissanayakedmp94@gmail.com)
-- **LinkedIn**: [DMP Dissanayake](https://www.linkedin.com/in/dmp-dissanayake-aa62ba218/)
-- **GitHub**: [DMPDissanayake](https://github.com/DMPDissanayake)
-
-## References
-- **Mr. Sadeep Randima** - Lecturer, Faculty of Management Studies, Rajarata University of Sri Lanka  
-  Email: [sadeepg@mgt.rjt.ac.lk](mailto:sadeepg@mgt.rjt.ac.lk)  
-  Phone: +94 71 638 6555
-
-- **Mr. K.M.P.G.A.J. Bandara** - Lecturer, Faculty of Management Studies, Rajarata University of Sri Lanka  
-  Email: [amithb@mgt.rjt.ac.lk](mailto:amithb@mgt.rjt.ac.lk)  
-  Phone: +94 71 451 2344
